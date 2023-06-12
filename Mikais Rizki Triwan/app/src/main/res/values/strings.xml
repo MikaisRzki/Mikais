@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string-array name="data_name">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Twitter</item>
+        <item>Whatsapp</item>
+        <item>Youtube</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Facebook merupakan media sosial dan layanan jejaring sosial dari Amerika yang dimiliki oleh META Platforms. Didirikan pada tahun 2004 oleh Mark Zuckerberg dengan sesama siswa Harvard College dan teman sekamar Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, dan Chris Hughes.</item>
+        <item>Instagram merupakan layanan jejaring sosial berbagi foto dan video yang dimiliki oleh perusahaan Amerika yaitu META Platform, aplikasi ini memungkinkan pengguna untuk mengunggah media yang dapat diedit dengan filter atau diatur dengan tagar dan penandaan geografis.</item>
+        <item>Twitter merupakan layanan jejaring sosial yang memungkinkan penggunanya untuk memposting teks, gambar, dan video yang dikenal dengan sebutan tweet. Twitter didirikan pada bulan Maret 2006 oleh Jack Dorsey.</item>
+        <item>Whatsapp merupakan aplikasi perpesanan instan lintas platform gratis yang memungkinkan penggunanya bertukar pesan tanpa pulsa, karena aplikasi ini berkomunikasi menggunakan jaringan interner. Aplikasi Whatsapp ini digunakan untuk melakukan obrolan daring, berbagi file, bertukar foto dan lain lain.</item>
+        <item>Youtube merupakan sebuah situs web berbagi video yang dibuat oleh tiga mantan karyawan PayPal pada Februari 2005. Situs web ini memungkinkan pengguna mengunggah, menonton, dan berbagi video.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/fb</item>
+        <item>@drawable/ig</item>
+        <item>@drawable/twitter</item>
+        <item>@drawable/wa</item>
+        <item>@drawable/yt</item>
+
+    </integer-array>
+</resources>
